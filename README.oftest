@@ -85,6 +85,8 @@ Longer Start
           with Python 2.4.
         * Python setup tools (e.g.: sudo apt-get install python-setuptools)
         * Python ipadrr (e.g.: sudo apt-get install python-ipaddr)
+        * Python pypcap (e.g.: sudo apt-get install python-pypcap)
+        * Scapy >2.20 (Need a version with contrib/mpls)
         * oftest checked out (called <oftest> here)
         * Doxygen and doxypy for document generation (optional)
         * lint for source checking (optional)
